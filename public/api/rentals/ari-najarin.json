@@ -1,0 +1,13 @@
+{
+  "data": {
+    "id": "ari-najarin",
+    "attributes": {
+      "name": "Ari Najarin",
+      "job": "President",
+      "email": "ari@torusoft.com",
+      "phone": "902.442.9332",
+      "image": "https://torusoft.com/media/72b5ffbea732b3fd934396de2a283679/Ari Najarian.jpg",
+      "description": "Ari wrote his first computer game in Grade 8, and has been fascinated by technology ever since. After graduating with a B.A. and B.Ed., he worked for a short time as a high school I.T. teacher in New Brunswick. Since founding Torusoft, Ari has refined his technical skill as an interface designer, database architect and mobile application developer. He also presently serves as a signals officer in the Canadian Army Reserve. As co-founder of Torusoft, Ari oversees all web and mobile app development as project manager and lead developer. He also develops and delivers Torusoft's training programs for Macs, iPhones and iPads in the workplace, helping empower our clients with the same tools that enable our team."
+    }
+  }
+}

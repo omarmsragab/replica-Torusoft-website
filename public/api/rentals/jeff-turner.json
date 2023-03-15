@@ -1,0 +1,14 @@
+{
+    "data": {
+        "id": "jeff-turner",
+        "attributes": {
+            "name": "Jeff Turner",
+            "job": "Systems Administrator",
+            "email": "jeff@torusoft.com",
+            "phone": "902.442.9335",
+            "image": "https://torusoft.com/media/ecfcab46efb0821b0129eeafa7aa2e53/Jeff Turner.jpg",
+            "description": "Jeff is a self-defined nerd who has been hooked on all things tech for as long as he can remember. At age 14, he successfully ported Mac OS X to his PC and made it fully functional. This was the start to being immersed in all things Apple, and he has never looked back. Jeff first came to Torusoft for a ninth-grade “Take a Student to Work” project. Throughout high school, he would periodically assist with projects in the office and has always enjoyed hanging out and expanding upon his interest and knowledge of the IT world. Jeff is now working towards a diploma in IT with a focus on Networking and Systems Management. He enjoys working in the IT industry and continues to enhance his knowledge of computer systems and functions so that he can share his expertise in assisting clients and finding solutions to any issues that may arise."
+        }
+    }
+}
+  

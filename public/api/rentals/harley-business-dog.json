@@ -1,0 +1,13 @@
+{
+  "data": {
+    "id": "harley-business-dog",
+    "attributes": {
+      "name": "Harley Business Dog",
+      "job": "Chief Morale Officer",
+      "email": "businessdog@torusoft.com",
+      "phone": "",
+      "image": "https://torusoft.com/media/1ce1e8b7c6e3d9a172857c7f12583e73/Harley Business Dog 400px.jpg",
+      "description": "Business Dog's rise through Torusoft's Byzantine corporate bureaucracy from mere puppy to Chief Morale Officer in just five years is truly impressive.  The burden placed upon the Chief Morale Officer's shoulders would give Atlas paws.  Some say Harley's ability to keep staff morale at high levels, despite the draconian policies enforced by Torusoft's Evil Overlord, is a true gift.  He may be the most valuable member of Torusoft's executive team."
+    }
+  }
+}

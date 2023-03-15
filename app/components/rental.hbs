@@ -1,0 +1,21 @@
+<article class="rental">
+  <div class="image">
+    <img src={{@rental.image}} alt={{@rental.name}}>
+  </div>
+  <div class="details">
+    <h3>
+      <LinkTo @route="rental" @model={{@rental}}>
+        {{@rental.name}}
+      </LinkTo>
+    </h3>
+    <div class="detail type">
+      {{@rental.job}}
+    </div>
+    <div class="detail location">
+      {{@rental.email}}
+    </div>
+    <div class="detail bedrooms">
+      {{@rental.phone}}
+    </div>
+  </div>
+</article>

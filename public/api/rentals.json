@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "chris-marriott",
+      "type": "rental",
+      "attributes": {
+        "name": "Chris Marriott",
+        "job": "CEO",
+        "email": "chris@torusoft.com",
+        "phone": "902.442.9333",
+        "image": "https://torusoft.com/media/72b5ffbea732b3fd934396de2a2897cb/Chris%20Marriott.jpg",
+        "description": "For Chris, working with technology is not a job. It's a lifelong passion. He started out as a teenager working in an Apple retail store, and moved up to an Apple systems engineer & technical sales engineer, network administrator, web and database developer before founding Torusoft in 2009. As CEO, he oversees Torusoft's I.T. consulting services, and acts as the first and last point of contact for many clients. His passion for streamlining business processes gets him up in the morning, and seeing technology improving customers' lives is what keeps him going."
+      }
+    },
+    {
+      "id": "ari-najarin",
+      "type": "rental",
+      "attributes": {
+        "name": "Ari Najarin",
+        "job": "President",
+        "email": "ari@torusoft.com",
+        "phone": "902.442.9332",
+        "image": "https://torusoft.com/media/72b5ffbea732b3fd934396de2a283679/Ari Najarian.jpg",
+        "description": "Ari wrote his first computer game in Grade 8, and has been fascinated by technology ever since. After graduating with a B.A. and B.Ed., he worked for a short time as a high school I.T. teacher in New Brunswick. Since founding Torusoft, Ari has refined his technical skill as an interface designer, database architect and mobile application developer. He also presently serves as a signals officer in the Canadian Army Reserve. As co-founder of Torusoft, Ari oversees all web and mobile app development as project manager and lead developer. He also develops and delivers Torusoft's training programs for Macs, iPhones and iPads in the workplace, helping empower our clients with the same tools that enable our team."
+      }
+    },
+    {
+      "id": "jobelle-martin",
+      "type": "rental",
+      "attributes": {
+        "name": "Jobelle Martin",
+        "job": "Front-end Developer",
+        "email": "jobelle@torusoft.com",
+        "phone": "",
+        "image": "https://torusoft.com/media/72b5ffbea732b3fd934396de2a28b0c8/Jobelle Velasco.jpg",
+        "description": "Jobelle moved from the Philippines to Halifax in 2007 to study I.T. and web development at Nova Scotia Community College. She started at Torusoft as a student intern with limited practical knowledge and experience. Almost a decade later, Jobelle has amassed an impressive, ever-expanding set of design, layout and coding skills, and has become an indispensable part of every web project we ship."
+      }
+    },
+    {
+      "id": "jeff-turner",
+      "type": "rental",
+      "attributes": {
+        "name": "Jeff Turner",
+        "job": "Systems Administrator",
+        "email": "jeff@torusoft.com",
+        "phone": "902.442.9335",
+        "image": "https://torusoft.com/media/ecfcab46efb0821b0129eeafa7aa2e53/Jeff Turner.jpg",
+        "description": "Jeff is a self-defined nerd who has been hooked on all things tech for as long as he can remember. At age 14, he successfully ported Mac OS X to his PC and made it fully functional. This was the start to being immersed in all things Apple, and he has never looked back. Jeff first came to Torusoft for a ninth-grade “Take a Student to Work” project. Throughout high school, he would periodically assist with projects in the office and has always enjoyed hanging out and expanding upon his interest and knowledge of the IT world. Jeff is now working towards a diploma in IT with a focus on Networking and Systems Management. He enjoys working in the IT industry and continues to enhance his knowledge of computer systems and functions so that he can share his expertise in assisting clients and finding solutions to any issues that may arise."
+      }
+    },
+    {
+      "id": "harley-business-dog",
+      "type": "rental",
+      "attributes": {
+        "name": "Harley Business Dog",
+        "job": "Chief Morale Officer",
+        "email": "businessdog@torusoft.com",
+        "phone": "",
+        "image": "https://torusoft.com/media/1ce1e8b7c6e3d9a172857c7f12583e73/Harley Business Dog 400px.jpg",
+        "description": "Business Dog's rise through Torusoft's Byzantine corporate bureaucracy from mere puppy to Chief Morale Officer in just five years is truly impressive.  The burden placed upon the Chief Morale Officer's shoulders would give Atlas paws.  Some say Harley's ability to keep staff morale at high levels, despite the draconian policies enforced by Torusoft's Evil Overlord, is a true gift.  He may be the most valuable member of Torusoft's executive team."
+      }
+    },
+    {
+      "id": "joey-gilkie",
+      "type": "rental",
+      "attributes": {
+        "name": "Joey Gilkie",
+        "job": "Front-end Developer",
+        "email": "joey@torusoft.com",
+        "phone": "",
+        "image": "https://torusoft.com/media/9965ea95d8bb64e668d233bd487d4fd1/Joey Gilkie.jpg",
+        "description": ""
+      }
+    },
+    {
+      "id": "lee-lunn",
+      "type": "rental",
+      "attributes": {
+        "name": "Lee Lunn",
+        "job": "Software Developer",
+        "email": "lee@torusoft.com",
+        "phone": "",
+        "image": "https://torusoft.com/media/360bdcf13624d1259a0d4d18ecb50f93/Lee Lunn.jpg",
+        "description": ""
+      }
+    }
+  ]
+}

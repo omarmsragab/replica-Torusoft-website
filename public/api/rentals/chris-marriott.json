@@ -1,0 +1,13 @@
+{
+  "data": {
+    "id": "chris-marriott",
+    "attributes": {
+      "name": "Chris Marriott",
+      "job": "CEO",
+      "email": "chris@torusoft.com",
+      "phone": "902.442.9333",
+      "image": "https://torusoft.com/media/72b5ffbea732b3fd934396de2a2897cb/Chris%20Marriott.jpg",
+      "description": "For Chris, working with technology is not a job. It's a lifelong passion. He started out as a teenager working in an Apple retail store, and moved up to an Apple systems engineer & technical sales engineer, network administrator, web and database developer before founding Torusoft in 2009. As CEO, he oversees Torusoft's I.T. consulting services, and acts as the first and last point of contact for many clients. His passion for streamlining business processes gets him up in the morning, and seeing technology improving customers' lives is what keeps him going."
+    }
+  }
+}

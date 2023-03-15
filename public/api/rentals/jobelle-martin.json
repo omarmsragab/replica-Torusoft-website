@@ -1,0 +1,13 @@
+{
+  "data": {
+    "id": "jobelle-martin",
+    "attributes": {
+      "name": "Jobelle Martin",
+      "job": "Front-end Developer",
+      "email": "jobelle@torusoft.com",
+      "phone": "",
+      "image": "https://torusoft.com/media/72b5ffbea732b3fd934396de2a28b0c8/Jobelle Velasco.jpg",
+      "description": "Jobelle moved from the Philippines to Halifax in 2007 to study I.T. and web development at Nova Scotia Community College. She started at Torusoft as a student intern with limited practical knowledge and experience. Almost a decade later, Jobelle has amassed an impressive, ever-expanding set of design, layout and coding skills, and has become an indispensable part of every web project we ship."
+    }
+  }
+}
